@@ -25,8 +25,12 @@ The Chief of Operations, Bruce Haryali, urgently requires actionable insights. P
 # Impact:
 Empower Goodcabs to enhance 📈 growth, improve 😊 satisfaction, and meet strategic goals effectively.
 
+# live view
+https://app.powerbi.com/view?r=eyJrIjoiYzc4OTg1NmMtNDU1ZS00MzdiLTlkYzItOTAxZWVjZDFhOTFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=b45ccc05507768a34d25
+
 # Screenshots
 # view 1 
 ![Screenshot 2024-11-28 183521](https://github.com/user-attachments/assets/493e9cfe-abf5-4094-8634-130e83b1e9fe)
 # view 2
 ![Screenshot 2024-11-28 183606](https://github.com/user-attachments/assets/34d8a090-2635-415a-ae5e-9e3249977115)
+

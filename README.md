@@ -9,14 +9,14 @@ Goodcabs, operating in 10 tier-2 cities, supports local drivers while ensuring e
 
 The Chief of Operations, Bruce Haryali, urgently requires actionable insights. Peter Pandey, a curious data analyst, is tasked with delivering data-driven reports.
 
-#Key Skills Acquired:
+# Key Skills Acquired:
 -📊 Advanced Pivot Tables for data analysis.
 -🛠️ Power Query for transformation.
 -📈 Basics of DAX.
 -🎨 Conditional Formatting for visualization.
 -🖌️ Report design techniques.
 
-#Deliverables:
+# Deliverables:
 -📂 Data Analysis using Python, SQL, Power BI, or Excel.
 -📊 Dashboard Creation.
 -📝 SQL Reports for ad-hoc requests.
